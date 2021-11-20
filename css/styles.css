@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,400;1,900&display=swap');
+ 
+ 
+ body{
+    font-family: "Montserrat", sans-serif;
+ }
+
+ .navbar-nav{
+    margin-left: auto;
+ }
+
+ .navbar{
+     padding:40px 200px !important;
+ }
+
+ .nav-item{
+     padding:0px 18px ;
+ }
+
+ .nav-item a{
+     color: rgba(255,255,255,.5);
+     font-size: 1.25rem;
+
+ }
+
+ .navbar-brand{
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2.25rem !important;
+    font-weight: bold;
+    color: #fff;
+ }
+
+ #title{
+    background-color: #ff4c68;
+    color: #fff;
+    /* height: 100vh; */
+    text-align: center;
+    padding-bottom: 100px;
+    overflow: hidden;
+ }
+
+ .large-header {
+    font-weight:bolder;
+    font-size: 4rem;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.title-image {
+    /* height: 90%; */
+    width: 20%;
+    
+    transform: rotate(20deg);
+    position: absolute;
+    right: 20%;
+}
+
+.title-btn{
+    cursor: pointer;
+    margin: 20px;
+}
+
+#features{
+    margin: 180px;
+    text-align: center;
+}
+
+#features i{
+    color: #ff4c68;
+    font-size:xx-large;
+}
+
+#testimonials{
+    background: #ff8b97;
+    /* margin-top: 200px; */
+    padding: 100px 0px ;
+    text-align: center;
+    color: #fff;
+}
+
+#testimonials h2{
+    font-weight: bolder;
+    font-size:50px;
+    
+}
+
+.testimonial-image{
+    border-radius: 50%;
+    width: 100px;
+    padding-right: 5px;
+}
+
+#press{
+    background: #ff8b97;
+    text-align: center;
+    color: #fff;
+}
+
+#press img{
+    width: 200px;
+    padding: 0px 20px;
+    margin-bottom: 60px;
+}
+
+#pricing{
+    text-align: center;
+    padding: 100px;
+}
+
+#pricing h2{
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+#pricing .smallp{
+    margin-bottom: 50px;
+}
+
+#pricing button{
+    width: 100%;
+}
+
+#pricing button:hover{
+    background: #fff;
+    color: black;
+    outline: black;
+}
+
+#pricing i{
+    padding-right: 2px;
+    font-size: 15px;
+}
+
+#cta{
+    background: #ff4c68;
+    text-align: center;
+    margin: 75px auto;
+    padding: 100px 0px;
+    color: #fff;
+}
+
+#cta h3{
+    font-size: 65px;
+    font-weight: bolder;
+    margin-bottom: 50px;
+}
+
+#footer{
+    text-align: center;
+    margin: 50px auto;
+}
+
+
